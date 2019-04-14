@@ -21,6 +21,7 @@ KWin/KDE Rice
 4. cmatrix: https://github.com/abishekvashok/cmatrix
 5. tizonia: https://github.com/tizonia/tizonia-openmax-il#snap-package
 6. fff: https://github.com/abishekvashok/cmatrix
+7. colorls: https://github.com/athityakumar/colorls#installation
 
 ## Screenshots
 <img src="screenshots/0-new_rice.png">
